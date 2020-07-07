@@ -1,5 +1,5 @@
 # Stock-analysis
-Performing stock analysis on 12 stocks to compare their trading volume and rate of return in 2017 and 2018
+Performing stock analysis on 12 selected green stocks to compare their trading volume and rate of return in 2017 and 2018
 ## Overview of Project
 -Steve would like to find out what are the best performing green stocks for his parents by going through all the traing days in 2017 and 2018, and calculating the stock trading volumes and rate of return for 12 stocks.\
 -Steve is looking to expand the dataset to include the entire stock market over the last few years so he would like us to regractor the code in order to run the code in a more time efficient way.
