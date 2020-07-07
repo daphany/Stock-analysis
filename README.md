@@ -5,18 +5,18 @@ Performing stock analysis on 12 stocks to compare their trading volume and rate 
 -Steve is looking to expand the dataset to include the entire stock market over the last few years so he would like us to regractor the code in order to run the code in a more time efficient way.
 
 ## Result
-
+The analysis is well described with screenshots and code (4 pt).
 
 
 ### Analysis of Outcomes Based on Launch Date
 The number of successful outcome for the category of theatre is the highest in th month of May. Same as the number of failed outcomes.
 
-<img src="VBA_Challenge_2017.png" width="600">
+<img src="VBA_Challenge_2017.PNG" width="900">
 
 ### Analysis of Outcomes Based on Goals
 Sucess rate and failure rate has an inverse relationship. Sucess rate is the highest when the goal is less than $1000 and is the lowest when the goal is around $45,000 to $49,999.
 
-<img src="BNA_Challenge_2018.png" width="600">
+<img src="VBA_Challenge_2018.PNG" width="900">
 
 ## Summary
 Code refractoring is a way to restructure and optimize your existing design of code without changing its external behaviour. Refractoring has its advantage and disadvantage.
