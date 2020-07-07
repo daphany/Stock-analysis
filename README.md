@@ -27,11 +27,11 @@ We can see from the below screenshot, only 2 stocks outperformed S&P500 in both 
 ## Summary
 Code refractoring is a way to restructure and optimize your existing design of code without changing its external behaviour. Refractoring has its advantage and disadvantage.
 
--Advantages: it can enhance exsiting code to make it more efficient and easier for humans to understand. It also increases the maintainability. \
+-Advantages: it can enhance exsiting code to make it more efficient and easier for humans to understand. It also increases the maintainability of the code. \
 -Disadvantages: it might be time consuming and more costly than rewriting the code from scratch thus making it more risky to do it. In addition, there might be new potential buds that might be introduced with code refractoring.
 
 ### *Advantages and disadvantages of the original VBA scripts:*
-The original code is easier to understand for people who are new to VBA since its more straightforward;however, it took much longer to run then the refractored script.
+The original code is easier to understand for people who are new to VBA since its more straightforward; however, it took much longer to run than the refractored script.
 ### *Advantages and disadvantages of the refractored VBA scripts:*
 In our project, with the refractored script, it decreases the time to run the program thus enabling Steve to expand the dataset and do more calculation of stocks in future; however, it took more time to actually refractor the code than writing the original code. In additional, more arrays were needed so its harder to understand.
 
