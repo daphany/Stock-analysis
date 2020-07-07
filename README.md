@@ -12,9 +12,9 @@ Performing stock analysis on 12 selected green stocks to compare their trading v
 <img src="Original 2017.PNG" width="900">\
 *-Running time for original 2017 script: 0.9375 seconds*\
 <img src="VBA_Challenge_2017.PNG" width="900">
-*-Running time for refractored 2017 script: 0.3164 seconds*\
-### *Stock Analysis 201 8and VBA Script 2018*
-Original VBA script took 0.8594 seconds to run while the refractored script took only 0.3047 seconds.
+*-Running time for refractored 2017 script: 0.3164 seconds* 
+### *Stock Analysis 2018 and VBA Script 2018* 
+-Original VBA script took 0.8594 seconds to run while the refractored script took only 0.3047 seconds.\
 <img src="Original 2018.PNG" width="900">\
 *-Running time for original 2018 script: 0.8594 seconds*\
 <img src="VBA_Challenge_2018.PNG" width="900">
