@@ -1,8 +1,8 @@
 # Stock-analysis
 Performing stock analysis on 12 stocks to compare their trading volume and rate of return in 2017 and 2018
 ## Overview of Project
-Steve would like us to regractor the code in order to run the code in a more time efficient way.
-find out what are the best performing green stocks for his parents by going through all the traing days in 2017 and 2018, and calculating the stock trading volumes and rate of return for 12 stocks.
+-Steve would like to find out what are the best performing green stocks for his parents by going through all the traing days in 2017 and 2018, and calculating the stock trading volumes and rate of return for 12 stocks.
+-Steve is looking to expand the dataset to include the entire stock market over the last few years so he would like us to regractor the code in order to run the code in a more time efficient way.
 
 ## Result
 
@@ -19,17 +19,14 @@ Sucess rate and failure rate has an inverse relationship. Sucess rate is the hig
 <img src="BNA_Challenge_2018.png" width="600">
 
 ## Summary
+Code refractoring is a way to restructure and optimize your existing design of code without changing its external behaviour. Refractoring has its advantage and disadvantage.
 
-- *What are two conclusions you can draw about the Outcomes based on Launch Date?* \
-Compare to other months, the period of May to August had the best outcome so it may be a good idea for Louise to start fundraising in this period; specifically, May is the best month to launch a fundraising project. 
-In addition, the number of failed outcome is also the higest in this period which may due to the total number of outcomes.
-The number of failed outcome is the highest in December. One possible reason is that people have lower budget because most money is spent on holidays including gifts, vacation, and dinners. As a result, its not recommeded to launch a campaign in December.
+-Advantages: it can enhance exsiting code to make it more efficient and easier for humans to understand. It also increases the maintainability. \
+-Disadvantages: it might be time consuming and more costly than rewriting the code from scratch thus making it more risky to do it. In addition, there might be new potential buds that might be introduced with code refractoring.
 
-- *What can you conclude about the Outcomes based on Goals?* \
-Louise is most likely to reach her goal if her goal amount is less than $1000. On the other hand, she is least likely to reach her goal when her goal amount is between $45,000 to $49,999.
+### Advantages and disadvantages of the original VBA scripts:
+The original code is easier to understand for people who are new to VBA since its more straightforward;however, it took much longer to run then the refractored script.
+### Advantages and disadvantages of the refractored VBA scripts:
+In our project, with the refractored script, it decreases the time to run the program thus enabling Steve to expand the dataset and do more calculation of stocks in future; however, it took more time to actually refractor the code than writing the original code. In additional, more arrays were needed so its harder to understand.
 
-- *What are some limitations of this dataset?*  
-  1. There are many other factors which might affect the outcomes including number of fundraiser, their budgets and etc which none of it was considered in our dataset.
-  2. Theatre Outcome Based on Launch Month: it is not fair to just compare the outcomes based on launch month since the total number of campaigns are different in each month.
-- *What are some other possible tables and/or graphs that we could create?* \
-Theatre Outcome Based on Launch Month: it might be more accurate to use a dual axis chart to illustrate the outcome based on launch month VS percentage of success/failsure.
+
