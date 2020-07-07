@@ -11,9 +11,9 @@ VBA script was written to extract the data from worksheet 2017 and total daily v
 ### VBA Script 2017
 Original VBA script took 0.9375 seconds to run while the regractored script took only 0.3164 seconds. This was due to the creation of the three output arrays; tickerVolumes, tickerStartingPrice and tickerEndingPrice. As a result, system was able to go through just one big loop to categorize the data for each stock instead of going through all the rows for 12 times.
 <img src="Original 2017.PNG" width="900">\
--Running time for original script
+*-Running time for original script*\
 <img src="VBA_Challenge_2017.PNG" width="900">\
--Running time for refractored script
+*-Running time for refractored script*
 ### Stock Analysis 2018
 Original VBA script took 0.8594 seconds to run while the regractored script took only 0.3047 seconds.
 <img src="Original 2018.PNG" width="900">
